@@ -1,0 +1,6 @@
+- string
+- Numeric types
+- object
+- array
+- boolean
+- null

@@ -1,0 +1,1 @@
+see https://json-schema.org/understanding-json-schema/reference/string.html

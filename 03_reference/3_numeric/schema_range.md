@@ -1,0 +1,4 @@
+- X ≥ minimum
+- x > exclusiveMinimum
+- X ≤ maximum
+- x < exclusiveMaximum
